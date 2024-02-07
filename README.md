@@ -1,0 +1,3 @@
+# Hi
+
+[Notes](NOTES.md)
